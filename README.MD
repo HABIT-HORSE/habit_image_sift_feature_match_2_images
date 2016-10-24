@@ -18,4 +18,8 @@ Dependencies:
 
 Usage: 
 
+File format for SIFT files:
+Features are separated by a newline character (LF or \n).
+Values within a feature are separated by a space.
+
 Known issues:
